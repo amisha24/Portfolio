@@ -1,0 +1,38 @@
+background-image
+.header{
+	
+	text-align: center;
+	font-size: 60px;
+	border:2px groove blue;
+	color: red;
+	padding: 40px;
+
+}
+.header h1{
+	color:red;
+	padding: 40px;
+	font-size: 70px;
+	text-align: center;
+}
+.header p{
+	float:right;
+	color:blue;
+	font-size:40px;
+	color:red;
+}
+.main{
+	text-align: center;
+	color:red;
+	font-size:30px;
+}
+body{
+	background-image: url("back2.jpg");
+}
+.footer p{
+	color:red;
+	font-size:20px;
+}
+.main ul{
+    text-align: left;
+	font-size:30px;
+}

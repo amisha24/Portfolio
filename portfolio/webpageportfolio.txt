@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>webpage</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+<div class="header"><h1>My Porfolio</h1>
+
+
+</div>
+<div class="main"><p><h2>I am Amisha Sherekar</h2></p>
+<p>Doing bachelor's in computer science 
+<P>from  PCCoE pune</P>
+<ul style="list-style-type:square ">Skills</ul>
+<ul>
+	<li>Cloud Computing</li>
+	<li>Web Development</li>
+	<li>Machine Learning</li>
+	<li>artificial intelligence</li>
+	<li>Backend development</li>
+	<li>Data Science</li>
+</ul>
+
+</div>
+<div class="footer">
+	<p>contact me:</p>
+	<p>E-mail:<a href="amishasherekar24@gamil.com">amishasherekar24@gmail.com
+	<p>linkedin id:<a href="https://www.linkedin.com/in/amisha-sherekar-074740173/"> Amisha-Sherekar</a></p>
+	<p>Github:<a href="https://github.com/amisha24"> amisha24</a></p>
+
+	</div>
+
+</body>
+</html>
